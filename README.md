@@ -4,6 +4,10 @@ This repository contains the code for `getgrass-bot`, a bot designed to establis
 
 ## Overview
 
+- Buy Proxy here: https://bartproxies.com/login?referral=qTNhU6vJ
+Choose Fresh At&T 
+Use code BHW625 for 60% off discount.
+
 `getgrass-bot` connects to a specified WebSocket server using both HTTP and SOCKS proxies. It leverages the `ws` library for WebSocket communication and integrates the `https-proxy-agent` and `socks-proxy-agent` libraries for enhanced proxy support. This allows for more versatile and resilient connections, accommodating a wider range of proxy types.
 
 ## Installation
